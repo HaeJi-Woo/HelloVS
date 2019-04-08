@@ -1,6 +1,9 @@
 #include <stdio.h>
+#include "ex3-5.h"
 
 int main()
 {
-	printf("Hello, World!\n");
+     ex3_5_main();
 }
+
+
