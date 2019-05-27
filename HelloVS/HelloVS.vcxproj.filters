@@ -13,34 +13,37 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Example">
+      <UniqueIdentifier>{b27f6133-e894-491b-b842-eae2eda97fc3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="ex3~4.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Example</Filter>
     </ClCompile>
     <ClCompile Include="ex3-5.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Example</Filter>
     </ClCompile>
     <ClCompile Include="ex4-3.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Example</Filter>
     </ClCompile>
     <ClCompile Include="ex5-1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="example 6-1.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Example</Filter>
     </ClCompile>
     <ClCompile Include="ex6-2.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Example</Filter>
     </ClCompile>
     <ClCompile Include="ex6-3.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Example</Filter>
     </ClCompile>
     <ClCompile Include="ex7-1.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="example 6-1.cpp">
+      <Filter>소스 파일\Example</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
